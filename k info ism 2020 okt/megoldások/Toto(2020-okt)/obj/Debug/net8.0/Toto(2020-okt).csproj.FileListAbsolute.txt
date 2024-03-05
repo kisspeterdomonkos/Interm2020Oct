@@ -1,0 +1,14 @@
+E:\C# Projects\Toto(2020-okt)\bin\Debug\net8.0\Toto(2020-okt).exe
+E:\C# Projects\Toto(2020-okt)\bin\Debug\net8.0\Toto(2020-okt).deps.json
+E:\C# Projects\Toto(2020-okt)\bin\Debug\net8.0\Toto(2020-okt).runtimeconfig.json
+E:\C# Projects\Toto(2020-okt)\bin\Debug\net8.0\Toto(2020-okt).dll
+E:\C# Projects\Toto(2020-okt)\bin\Debug\net8.0\Toto(2020-okt).pdb
+E:\C# Projects\Toto(2020-okt)\obj\Debug\net8.0\Toto(2020-okt).GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\Toto(2020-okt)\obj\Debug\net8.0\Toto(2020-okt).AssemblyInfoInputs.cache
+E:\C# Projects\Toto(2020-okt)\obj\Debug\net8.0\Toto(2020-okt).AssemblyInfo.cs
+E:\C# Projects\Toto(2020-okt)\obj\Debug\net8.0\Toto(2020-okt).csproj.CoreCompileInputs.cache
+E:\C# Projects\Toto(2020-okt)\obj\Debug\net8.0\Toto(2020-okt).dll
+E:\C# Projects\Toto(2020-okt)\obj\Debug\net8.0\refint\Toto(2020-okt).dll
+E:\C# Projects\Toto(2020-okt)\obj\Debug\net8.0\Toto(2020-okt).pdb
+E:\C# Projects\Toto(2020-okt)\obj\Debug\net8.0\Toto(2020-okt).genruntimeconfig.cache
+E:\C# Projects\Toto(2020-okt)\obj\Debug\net8.0\ref\Toto(2020-okt).dll

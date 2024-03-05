@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Toto(2020-okt)/1.0.0": {
+        "runtime": {
+          "Toto(2020-okt).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Toto(2020-okt)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

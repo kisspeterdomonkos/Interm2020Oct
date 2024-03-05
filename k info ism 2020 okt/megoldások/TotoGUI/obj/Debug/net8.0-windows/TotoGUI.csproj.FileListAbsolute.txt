@@ -1,0 +1,16 @@
+E:\C# Projects\TotoGUI\bin\Debug\net8.0-windows\TotoGUI.exe
+E:\C# Projects\TotoGUI\bin\Debug\net8.0-windows\TotoGUI.deps.json
+E:\C# Projects\TotoGUI\bin\Debug\net8.0-windows\TotoGUI.runtimeconfig.json
+E:\C# Projects\TotoGUI\bin\Debug\net8.0-windows\TotoGUI.dll
+E:\C# Projects\TotoGUI\bin\Debug\net8.0-windows\TotoGUI.pdb
+E:\C# Projects\TotoGUI\obj\Debug\net8.0-windows\TotoGUI.Form1.resources
+E:\C# Projects\TotoGUI\obj\Debug\net8.0-windows\TotoGUI.csproj.GenerateResource.cache
+E:\C# Projects\TotoGUI\obj\Debug\net8.0-windows\TotoGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\TotoGUI\obj\Debug\net8.0-windows\TotoGUI.AssemblyInfoInputs.cache
+E:\C# Projects\TotoGUI\obj\Debug\net8.0-windows\TotoGUI.AssemblyInfo.cs
+E:\C# Projects\TotoGUI\obj\Debug\net8.0-windows\TotoGUI.csproj.CoreCompileInputs.cache
+E:\C# Projects\TotoGUI\obj\Debug\net8.0-windows\TotoGUI.dll
+E:\C# Projects\TotoGUI\obj\Debug\net8.0-windows\refint\TotoGUI.dll
+E:\C# Projects\TotoGUI\obj\Debug\net8.0-windows\TotoGUI.pdb
+E:\C# Projects\TotoGUI\obj\Debug\net8.0-windows\TotoGUI.genruntimeconfig.cache
+E:\C# Projects\TotoGUI\obj\Debug\net8.0-windows\ref\TotoGUI.dll

@@ -1,0 +1,14 @@
+E:\C# Projects\Toto\bin\Debug\net8.0\Toto.exe
+E:\C# Projects\Toto\bin\Debug\net8.0\Toto.deps.json
+E:\C# Projects\Toto\bin\Debug\net8.0\Toto.runtimeconfig.json
+E:\C# Projects\Toto\bin\Debug\net8.0\Toto.dll
+E:\C# Projects\Toto\bin\Debug\net8.0\Toto.pdb
+E:\C# Projects\Toto\obj\Debug\net8.0\Toto.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\Toto\obj\Debug\net8.0\Toto.AssemblyInfoInputs.cache
+E:\C# Projects\Toto\obj\Debug\net8.0\Toto.AssemblyInfo.cs
+E:\C# Projects\Toto\obj\Debug\net8.0\Toto.csproj.CoreCompileInputs.cache
+E:\C# Projects\Toto\obj\Debug\net8.0\Toto.dll
+E:\C# Projects\Toto\obj\Debug\net8.0\refint\Toto.dll
+E:\C# Projects\Toto\obj\Debug\net8.0\Toto.pdb
+E:\C# Projects\Toto\obj\Debug\net8.0\Toto.genruntimeconfig.cache
+E:\C# Projects\Toto\obj\Debug\net8.0\ref\Toto.dll
